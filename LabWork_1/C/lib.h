@@ -12,6 +12,7 @@
 double	f(double x);
 void	avgM(void);
 void	avgMax05(void);
+void	minPositive(void);
 
 
 #endif
